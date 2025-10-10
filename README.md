@@ -23,3 +23,31 @@
 <p align="center">
   Note that this tool may lag your client more than the server due to its use of methods that are significantly faster than others, causing some client-side overhead. Server lag typically becomes noticeable after 1-5 minutes of use.
 </p>
+
+<!-- Copyable code box (replace placeholder with safe code you own) -->
+<div align="center" style="margin-top:20px;">
+  <label for="copyBox" style="font-weight:600;">Copyable script (replace with your own safe code):</label>
+  <div style="margin:8px 0; width:90%; max-width:700px;">
+    <textarea id="copyBox" readonly rows="4" style="width:100%; padding:12px; font-family:monospace; font-size:13px; border-radius:6px; border:1px solid #ddd; resize:vertical;">
+-- Replace this placeholder with your own safe Lua code.
+print("Hello from BrookCrash README placeholder")
+    </textarea>
+  </div>
+  <button id="copyBtn" style="padding:8px 14px; border-radius:6px; border:0; cursor:pointer;">Copy</button>
+  <p style="font-size:12px; color:#666; margin-top:8px;">Only paste code you are allowed to share. Test in a private environment.</p>
+</div>
+
+<script>
+document.getElementById('copyBtn').addEventListener('click', function(){
+  const box = document.getElementById('copyBox');
+  box.select();
+  try {
+    document.execCommand('copy');
+    this.textContent = 'Copied!';
+    setTimeout(() => this.textContent = 'Copy', 1200);
+  } catch (e) {
+    this.textContent = 'Copy failed';
+    setTimeout(() => this.textContent = 'Copy', 1200);
+  }
+});
+</script>
