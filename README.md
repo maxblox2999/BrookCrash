@@ -5,7 +5,7 @@
 <h1 align="center">BrookCrash v4</h1>
 
 <p align="center">
-  <strong>⚠️ Disclaimer: This project is for educational purposes only.</strong>
+  <strong>⚠️ Disclaimer: This project is for educational purposes only. I'm not responsible for what other people use it for.</strong>
 </p>
 
 <p align="center">
