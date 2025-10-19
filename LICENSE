@@ -21,3 +21,14 @@ This software is provided "as is," without warranty of any kind, express or impl
 ## Contact
 For inquiries regarding redistribution or other permissions, contact iamyearsold04@gmail.com.
 expect replies to be slow since the owner is busy.
+
+
+extras: 
+
+Safe usage — required before running
+
+1) Use only in private, isolated test environments that you own or have written permission to use.
+2) Do not run this code against public game servers, shared hosts, or other people's systems.
+3) Before executing, confirm the test environment is offline from any production services and that you can restore it from backups.
+4) This project contains potentially disruptive behavior; run only on hardware you can afford to stress or wipe.
+
