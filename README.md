@@ -2,14 +2,18 @@
   <img src="https://raw.githubusercontent.com/maxblox2999/BrookCrash/assets/BC.png" alt="BrookCrash Demo">
 </p>
 
-<h1 align="center">BrookCrash v4.5</h1>
+<h1 align="center">BrookCrash v5</h1>
 
 <p align="center">
-  <strong>⚠️ Disclaimer: This project is for educational purposes only. I'm not responsible for what other people use it for.</strong>
+  <strong>Warning: Disclaimer: This project is for educational purposes only. I'm not responsible for what other people use it for.</strong>
 </p>
 
 <p align="center">
   <strong>This is the fastest and most lightweight version yet to be released to the public.</strong>
+</p>
+
+<p align="center">
+  Stability has been fixed majorly and a lot of security issues have been addressed.
 </p>
 
 <p align="center">
