@@ -6,4 +6,4 @@
 
 **Important: This project is licensed. You cannot steal or redistribute it without permission.**
 
-**New anti-cheat deletes and detects multiple tools, making it impossible for this tool to ever come back, and most likely breaks other scripts.**
+**New anti-cheat [ server-sided ] deletes and detects multiple tools, making it impossible for this tool to ever come back, and most likely breaks other scripts.**
