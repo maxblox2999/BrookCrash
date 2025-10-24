@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/maxblox2999/BrookCrash/assets/BC.png" alt="BrookCrash Demo">
 </p>
 
-<h1 align="center">BrookCrash v5</h1>
+<h1 align="center">BrookCrash v5 [ PATCHED ] </h1>
 
 <p align="center">
   <strong>Warning: Disclaimer: This project is for educational purposes only. I'm not responsible for what other people use it for.</strong>
